@@ -13,8 +13,8 @@ parts:
       title: Tutorial
     - file: chapters/data-analytics/python-exercise
       title: Exercise
-    - file: chapters/data-analytics/python-solution
-      title: Solution
+    #- file: chapters/data-analytics/python-solution
+      #title: Solution
   - file: chapters/data-analytics/numpy
     title: NumPy
     sections:
@@ -22,22 +22,26 @@ parts:
       title: Tutorial
     - file: chapters/data-analytics/numpy-exercise
       title: Exercise
-    - file: chapters/data-analytics/numpy-solution
-      title: Solution
+    #- file: chapters/data-analytics/numpy-solution
+      #title: Solution
   - file: chapters/data-analytics/pandas
     title: Pandas
     sections:
     - file: chapters/data-analytics/pandas-basic
-      title: Tutorial (Basic)
-    - file: chapters/data-analytics/pandas-advanced
-      title: Tutorial (Advanced)
+      title: Tutorial
     - file: chapters/data-analytics/pandas-exercise
       title: Exercise
+    #- file: chapters/data-analytics/pandas-solution
+      #title: Solution
   - file: chapters/data-analytics/scipy
-    title: Scipy
+    title: SciPy
     sections:
     - file: chapters/data-analytics/scipy-basic
       title: Tutorial
+    - file: chapters/data-analytics/scipy-exercise
+      title: Exercise
+    #- file: chapters/data-analytics/scipy-solution
+      #title: Solution
   - file: chapters/data-analytics/xarray
     title: Xarray
     sections:
@@ -53,7 +57,7 @@ parts:
       title: Tutorial (Basic)
     - file: chapters/data-visuals/matplotlib-advanced
       title: Tutorial (Advanced)
-- caption: Homework
+- caption: Homework (Fall 2022)
   chapters:
   - file: chapters/homework/homework1
     title: Homework 1
@@ -61,8 +65,8 @@ parts:
     title: Homework 2
 - caption: Course Project
   chapters:
-  - file: chapters/project/FinalProject
-    title: Fall 2021
+  - file: chapters/project/FinalProject-2022Fall
+    title: Fall 2022
 - caption: Gallery
   chapters:
   - file: chapters/gallery/plot_weighted_river_network
