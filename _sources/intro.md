@@ -103,8 +103,11 @@ If you find this book useful, please cite it via:
 ## Acknowledgement 🙏
 
 This book project would not have been possible without the contribution of the following (list alphabetically):
+- Haoling Chen
+- Meilian Li
 - Xinyue Liu
 - Zhanwei Liu
+- Zhixiao Niu
 - Huimin Wang
 
 The contents of this book are licensed for free consumption under the following license:
